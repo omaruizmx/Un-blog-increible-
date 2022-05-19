@@ -1,2 +1,4 @@
 este es un archivo de texto
 Me llamo Omar
+Estudio Desarollo de Software
+Me gusta programar
